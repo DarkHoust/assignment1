@@ -3,6 +3,8 @@ name = "dark_sort_bundle"
 version = "0.1.0"
 authors = ["Sultan Iskalinov <sultanisk@mail.ru>"]
 edition = "2021"
+license = "MIT"
+description = "Sorting package"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
